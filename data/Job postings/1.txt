@@ -1,0 +1,27 @@
+Senior Java developer
+
+We are searching for a talented Senior Java developer who is interested to work with cutting-edge advertising technologies (adtech).
+
+The project is a platform for managing advertisement campaigns along with ads banner system and traffic analytics. We use BigData and Data Science to improve the quality of our ads.
+
+We are looking for:
+
+— Desire to learn and grow;
+— Product-oriented mindset (Product > Code);
+— Java 11 or higher experience;
+— Good knowledge of Spring (Boot, Security, MVC, Data JPA, Batch);
+— Experience with microservices;
+— Knowledge of Docker and Kubernetes;
+— Intermediate or higher English level.
+
+Our Stack:
+
+— Microservice architecture, monorepo;
+— Spring (Boot, Batch, Cloud, MVC, JPA) + Java 17;
+— Some services are written in Scala/Go;
+— Bazel (build tool by Google);
+— Infrastructure: Kubernetes cluster on bare metal, Gitlab CI;
+— Persistence: PostgreSQL, CockroachDB, Clickhouse, Apache Spark, Apache Kafka, Redis, Elasticsearch
+— Frontend tech: ReactJS + TypeScript;
+— Tests: JUnit, Mockito, Playwright, Test Containers;
+— Monitoring: Sentry, Grafana.

@@ -1,0 +1,50 @@
+Senior Full Stack Engineer
+
+MWDN company is looking for a self-motivated and goal-oriented Senior Full Stack Engineer, who would like to join a team working on brand-new startup projects for foreign customers.
+
+We Offer:
+
+    People-oriented management without bureaucracy
+    The friendly climate inside the company is confirmed by the frequent comeback of previous employees
+    Flexible working hours
+    Full financial and legal support for private entrepreneurs
+    Dedicated HR
+    Possibility to choose your workspace either remote or a combination of your home and our development office
+
+Responsibilities:
+
+    Write clean stable code
+    Implement new features and support the existing platform
+    Communicate with the team
+    Deliver tasks in a timely manner
+    Investigate new technologies to help drive decisions for future initiatives
+
+Requirements:
+
+    At least 5 years of experience with SQL, Java, JavaScript, and frontend frameworks, HTML, and CSS.
+    Strong understanding of the way web applications work, concepts such as AJAX, REST, and single-page apps.
+    Ability to jump in and quickly contribute to a dynamic and fast-paced environment.
+    At least an upper-intermediate level of English.
+
+We’d love if you also had:
+
+    React, Angular, D3, C3, bootstrap.
+    JAX-WS and Jersey, and scalable web app design.
+    Familiarity with Amazon Web Services or similar cloud hosting platforms.
+    Experience with scripting and Linux.
+    ETL experience.
+    Contribution to open-source projects.
+
+About the project:
+
+Our client’s team operates within a synergistic, dynamic setting, utilizing a streamlined development infrastructure that promotes rapid iteration and deployment cycles. Their open position provides an unparalleled opportunity to become a vital part of a nimble team and to drive forward the success of an efficacious, performance-oriented SaaS solution.
+
+Our next steps:
+
+✅ Submit a CV in English — ✅ Intro call with a Recruiter — ✅ Client’s HR interview — ✅ Client’s technical interview — ✅ Offer
+
+Who We Are:
+Website: more about us and vacancies
+Instagram: follow MWDN’s life
+Facebook: follow our FB
+Feel free to contact us without any hesitation

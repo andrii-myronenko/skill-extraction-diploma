@@ -1,0 +1,47 @@
+Senior/Lead Full-stack JavaScript engineer
+
+Необхідні навички
+
+We are looking for an experienced Senior Full-stack JavaScript engineer (with a focus on server-side development) to spearhead the development of a new B2B SaaS desktop application from scratch. As the lead engineer, you will not only be responsible for laying the foundation of the application but also for managing and mentoring a team of developers later on.
+
+Qualifications:
+● Minimum of 7 years of software development experience.
+● Proven experience in architecting and building software projects from scratch.
+● Hands-on experience with startup environments.
+● Proven track record of managing and mentoring a development team.
+● In-depth knowledge of Node/Nest JS for backend and ReactJS for frontend.
+● Proficiency in various database technologies, both SQL (e.g., PostgreSQL) and NoSQL (e.g., MongoDB, Redis).
+● Strong experience with Python scripting.
+● Proficiency in designing and integrating REST APIs.
+● Solid experience with AWS cloud services.
+● Knowledge in orchestrating and operating Kubernetes and Infrastructure as Code (IAAC) practices.
+● Strong writing and verbal skills in English.
+Буде плюсом
+
+Preferred Qualifications:
+● Knowledge in integration to OpenAI API.
+● Knowledge in LLM propmt engineering.
+● Knowledge in integration to Call Center for calls and messages capture (Twilio).
+● Knowledge in integration to CRMs (Like “Follow Up Boss”) and Mail (Like outlook).
+Пропонуємо
+
+We offer:
+● А place with friendly environment where you can reach your full potential and grow your career.
+● Flexible work schedules.
+● Work from home
+● Social package: paid sick leave and vacation.
+● English courses, medical insurance.
+Обов’язки
+
+Responsibilities:
+● Architect, design, and develop software from scratch ensuring high performance, scalability, and maintainability.
+● Lead, mentor, and manage a team of developers, fostering a collaborative and high-performing environment.
+● Oversee code reviews, manage git repositories, and ensure best coding practices are followed.
+● Interface with stakeholders and translate business requirements into technical specifications.
+● Ensure the security and efficiency of software applications and platforms.
+● Manage cloud infrastructure, ensuring optimal performance, security, and scalability.
+● Collaborate closely with other teams, including product, UX/UI, and sales to deliver best-in-class products.
+Про проєкт
+
+● The initial work will be to build unique dashboard for real estate agents and owners to manage the entire calling operations. It plans to do it using integration with Twilio (call center software — industry standard).
+● Second part will be doing the speech to text (transcribe) + analyze using integration to LLM (OpenAI) / Gong API integration (Converstaion analyze software).
