@@ -2,9 +2,6 @@ sentence,span,sub_span,label
 django postgresql redis,django,,LABEL NOT PRESENT
 django postgresql redis,postgresql,,PostgreSQL
 django postgresql redis,redis,,LABEL NOT PRESENT
-django postgresql redis,django,,LABEL NOT PRESENT
-django postgresql redis,postgresql,,PostgreSQL
-django postgresql redis,redis,,LABEL NOT PRESENT
 As part of our tech team you will build software to help our customers combat one of the biggest problems of our society: food waste .,build software,,computer engineering
 As part of our tech team you will build software to help our customers combat one of the biggest problems of our society: food waste .,help our customers,,assist customers
 With this goal in mind you will build and expand our predictive analytics platform which is already changing the way large food service providers manage their operations .,build and expand our predictive analytics platform,build our predictive analytics platform,UNDERSPECIFIED
