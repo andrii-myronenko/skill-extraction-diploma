@@ -13,10 +13,13 @@ The main experiments focusing on synthetic data generation can be found in the f
 
 The data for the experiments can be found in the following directories:
 
-- [Second Experiment](./data/experiments/second_experiment): Corresponds to 20% generation using only template-based methods.
-- [Fourth Experiment](./data/experiments/fourth_experiment): Corresponds to 40% generation using only template-based methods.
-- [Third Experiment](./data/experiments/third_experiment): Corresponds to 20% generation using template-based + rephrasing methods.
-- [Fifth Experiment](./data/experiments/fifth_experiment): Corresponds to 40% generation using template-based + rephrasing methods.
+- [Second Experiment](./data/experiments/second_experiment): Corresponds to 20% generation using template-based method.
+- [Fourth Experiment](./data/experiments/fourth_experiment): Corresponds to 40% generation using template-based method.
+- [Third Experiment](./data/experiments/third_experiment): Corresponds to 20% generation using template-based + rephrasing method.
+- [Fifth Experiment](./data/experiments/fifth_experiment): Corresponds to 40% generation using template-based + rephrasing method.
+- [Sixth Experiment](./data/experiments/sixth_experiment): Corresponds to 60% generation using template-based method.
+- [Seventh Experiment](./data/experiments/seventh_experiment): Corresponds to 80% generation using template-based method.
+- [Eighth Experiment](./data/experiments/eighth_experiment): Corresponds to 100% generation using template-based method.
 
 Each experiment folder contains an `enriched_skillspan` folder, where the data is stored in BIO format. This includes both the original training data from SkillSpan and the added synthetic data. The file responsible for the mapping and enrichment process is:
 
