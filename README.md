@@ -2,6 +2,9 @@
 
 This repository contains the code developed during the experimentation phase of my Master Thesis titled **"Improving Skill Extraction from Job Postings Using Synthetic Data and Advanced Language Models."**
 
+[Link to the full thesis text](https://er.ucu.edu.ua/handle/1/4672).
+
+
 ## Main Experiments with Synthetic Data Generation
 
 The main experiments focusing on synthetic data generation can be found in the following files:
